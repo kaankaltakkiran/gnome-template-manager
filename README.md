@@ -18,7 +18,8 @@
 
 ### 📽️ Demo
 
-https://github.com/user-attachments/assets/9ad46252-9a73-4cc1-a40d-dccd8cfc33c4
+[video.webm](https://github.com/user-attachments/assets/294d9e73-5051-49c9-82d5-5dfafe73d592)
+
 
 ---
 
