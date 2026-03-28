@@ -76,6 +76,17 @@ If you wish to remove the templates, simply run the script and select **Option 1
 Contributions are welcome! Feel free to open an issue or submit a pull request to add more templates or improve localization.
 
 ---
+## Star History
+
+<a href="https://www.star-history.com/?repos=gnome-template-manager%2Fgnome-template-manager&type=timeline&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=gnome-template-manager/gnome-template-manager&type=timeline&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=gnome-template-manager/gnome-template-manager&type=timeline&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=gnome-template-manager/gnome-template-manager&type=timeline&logscale&legend=bottom-right" />
+ </picture>
+</a>
+
+---
 
 <p align="center">
   <a href="https://github.com/kaankaltakkiran">
