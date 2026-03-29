@@ -10,11 +10,16 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://gnome.kaankaltakkiran.com/"><img src="https://img.shields.io/badge/Website-Live-brightgreen.svg?style=for-the-badge" alt="Website"></a>
+</p>
+
+<p align="center">
+  <a href="https://gnome.kaankaltakkiran.com/"><strong>🌐 Visit Official Website</strong></a>
 </p>
 
 ---
 
-**GNOME Template Manager** is a lightweight utility designed to bridge the gap in GNOME's "New Document" functionality. It installs a curated set of standard file templates (LibreOffice, Text, Markdown, etc.) directly into your `~/Templates` directory, making them instantly available in your right-click menu across the entire system.
+**GNOME Template Manager** is a lightweight utility designed to bridge the gap in GNOME's "New Document" functionality. It installs a curated set of standard file templates (LibreOffice, Text, Markdown, etc.) directly into your `~/Templates` directory, making them instantly available in your right-click menu across the entire system. For more information and a visual walkthrough, visit the [official landing page](https://gnome.kaankaltakkiran.com/).
 
 ### 📽️ Demo
 
@@ -76,7 +81,7 @@ If you wish to remove the templates, simply run the script and select **Option 1
 Contributions are welcome! Feel free to open an issue or submit a pull request to add more templates or improve localization.
 
 ---
-## Star History
+## 🌟🌟 Star History
 
 <a href="https://www.star-history.com/?repos=gnome-template-manager%2Fgnome-template-manager&type=timeline&legend=bottom-right">
  <picture>
